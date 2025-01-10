@@ -1,4 +1,4 @@
-# PDF-Based Search Analysis
+# PDF-Based Search And Analysis
 
 ## Overview
 
@@ -31,7 +31,7 @@ PDF-Based Search Analysis is a tool designed to extract and analyze text from PD
 
 ## Project Structure
 ```bash
-PDF-Based-Search-Analysis/
+PDF-Based-Search-And-Analysis/
 ├── data/                       # Directory for storing PDF files
 ├── venv/                       # Virtual environment folder
 ├── src/                        # Source code
